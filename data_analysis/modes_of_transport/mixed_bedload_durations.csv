@@ -1,0 +1,20 @@
+size,time_mixed,class,time_bed,Season,Duration_Ratio
+63,0,Fine Sand,0,Spring,
+100,0,Fine Sand,0,Spring,
+200,186,Fine Sand,64.75,Spring,0.34811828
+280,396.25,Fine Sand,191.75,Spring,0.483911672
+500,1593.75,Fine Sand,1267.5,Spring,0.795294118
+700,2621.5,Fine Sand,2193.75,Spring,0.836830059
+850,2711.75,Coarse Sand,2211.25,Spring,0.815432839
+1000,2703.75,Coarse Sand,2149.25,Spring,0.794914471
+2000,2461.25,Coarse Sand,1604.5,Spring,0.65190452
+63,0,Fine Sand,0,Summer,
+100,790.75,Fine Sand,0,Summer,0
+200,2102,Fine Sand,36.75,Summer,0.017483349
+280,2111,Fine Sand,9,Summer,0.004263382
+500,1321.25,Fine Sand,1.5,Summer,0.001135289
+700,734.75,Fine Sand,1.25,Summer,0.001701259
+850,377,Coarse Sand,1,Summer,0.00265252
+1000,190.75,Coarse Sand,0.75,Summer,0.003931848
+2000,2.75,Coarse Sand,0,Summer,0
+,,,,,
